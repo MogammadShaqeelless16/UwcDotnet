@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuzz_Buzz", "Fuzz_Buzz\Fuzz_Buzz.csproj", "{8CBCC56E-6085-4D31-84C2-CB0626D8C5E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maths", "Maths\Maths.csproj", "{B6C67DBF-D9B5-47BF-8651-4E14651BFC1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{A046EEDF-2FA3-485C-AA0E-24D6C09196C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{8CBCC56E-6085-4D31-84C2-CB0626D8C5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CBCC56E-6085-4D31-84C2-CB0626D8C5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CBCC56E-6085-4D31-84C2-CB0626D8C5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C67DBF-D9B5-47BF-8651-4E14651BFC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C67DBF-D9B5-47BF-8651-4E14651BFC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C67DBF-D9B5-47BF-8651-4E14651BFC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C67DBF-D9B5-47BF-8651-4E14651BFC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A046EEDF-2FA3-485C-AA0E-24D6C09196C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A046EEDF-2FA3-485C-AA0E-24D6C09196C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A046EEDF-2FA3-485C-AA0E-24D6C09196C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A046EEDF-2FA3-485C-AA0E-24D6C09196C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
