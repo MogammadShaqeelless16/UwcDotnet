@@ -9,7 +9,7 @@ namespace MPS_Assignment_1
         {
             Console.WriteLine("Code Challenges Section 1");
             Console.WriteLine("Accept text input and reverse it");
-            Console.WriteLine("Please enter test to reverse ");
+            Console.WriteLine("Please enter text to reverse ");
             string SInput = Console.ReadLine();
             string Rstring = "";
             int length;
