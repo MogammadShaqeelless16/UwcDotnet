@@ -19,13 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPS_Assignment_1", "MPS_Assignment_1\MPS_Assignment_1.csproj", "{C5AE0CC6-D520-4C97-A764-17FCBFCB0593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal Class", "Animal Class\Animal Class.csproj", "{B0BBEA33-8430-44EC-8733-0B32B61207DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal Class", "Animal Class\Animal Class.csproj", "{B0BBEA33-8430-44EC-8733-0B32B61207DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{085175EA-05DE-4612-A0C3-59D09EF27415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{085175EA-05DE-4612-A0C3-59D09EF27415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add two numbers", "Add two numbers\Add two numbers.csproj", "{28FABD73-1CB5-46EC-BABC-9F8EFA90C765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add two numbers", "Add two numbers\Add two numbers.csproj", "{28FABD73-1CB5-46EC-BABC-9F8EFA90C765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsius to Fahrenheit", "Celsius to Fahrenheit\Celsius to Fahrenheit.csproj", "{32062A25-A6E3-4C52-AF46-F04F669FD6D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Celsius to Fahrenheit", "Celsius to Fahrenheit\Celsius to Fahrenheit.csproj", "{32062A25-A6E3-4C52-AF46-F04F669FD6D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "check if even or odd", "check if even or odd\check if even or odd.csproj", "{CCD0B756-CD6B-4CF3-968F-DD8130222232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSP_Assignment_2", "MSP_Assignment_2\MSP_Assignment_2.csproj", "{0699B13E-83ED-4B18-8698-B24829D9221A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{32062A25-A6E3-4C52-AF46-F04F669FD6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32062A25-A6E3-4C52-AF46-F04F669FD6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32062A25-A6E3-4C52-AF46-F04F669FD6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD0B756-CD6B-4CF3-968F-DD8130222232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD0B756-CD6B-4CF3-968F-DD8130222232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD0B756-CD6B-4CF3-968F-DD8130222232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD0B756-CD6B-4CF3-968F-DD8130222232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0699B13E-83ED-4B18-8698-B24829D9221A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0699B13E-83ED-4B18-8698-B24829D9221A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0699B13E-83ED-4B18-8698-B24829D9221A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0699B13E-83ED-4B18-8698-B24829D9221A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
