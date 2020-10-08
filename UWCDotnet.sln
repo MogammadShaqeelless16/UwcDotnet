@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSP_Assignment_2", "MSP_Ass
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPS Assignment 3", "MPS Assignment 3\MPS Assignment 3.csproj", "{6A00EB9F-77B1-4A51-B67B-8980C67A74B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSP Test 1", "MSP Test 1\MSP Test 1.csproj", "{0323F841-3137-4F0D-ACE7-0BE1295B01FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSP Test 1", "MSP Test 1\MSP Test 1.csproj", "{0323F841-3137-4F0D-ACE7-0BE1295B01FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPS Asssignment 4", "MPS Asssignment 4\MPS Asssignment 4.csproj", "{B3844532-CBC4-454C-9F31-BF5579515A40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{0323F841-3137-4F0D-ACE7-0BE1295B01FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0323F841-3137-4F0D-ACE7-0BE1295B01FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0323F841-3137-4F0D-ACE7-0BE1295B01FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3844532-CBC4-454C-9F31-BF5579515A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3844532-CBC4-454C-9F31-BF5579515A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3844532-CBC4-454C-9F31-BF5579515A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3844532-CBC4-454C-9F31-BF5579515A40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
